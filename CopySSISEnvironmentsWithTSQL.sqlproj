@@ -62,5 +62,6 @@
   <ItemGroup>
     <None Include="Scripts\CopyEnvironmentVariablesToTVC.sql" />
     <None Include="Scripts\SSISDB_Queries.sql" />
+    <None Include="Scripts\CreateOrUdateSSISEnvironment.sql" />
   </ItemGroup>
 </Project>
