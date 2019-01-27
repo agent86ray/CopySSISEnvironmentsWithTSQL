@@ -61,5 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\CopyEnvironmentVariablesToTVC.sql" />
+    <None Include="Scripts\SSISDB_Queries.sql" />
   </ItemGroup>
 </Project>
